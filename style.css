@@ -1,0 +1,96 @@
+div {
+  border: 0px solid #000;
+}
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20pt;
+  color: #000;
+}
+
+#content {
+  margin: 0;
+  padding: 0;
+}
+
+p, #socialmedia-info a {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 16pt;
+}
+
+a, a:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  width: 80%;
+  border: 1px solid #000;
+}
+
+img.portfolio {
+  height: 300px;
+  margin: 20px;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.banner {
+  border-bottom: 10px solid #000;
+  padding-left: 50px;
+  padding-bottom: 0px;
+  font-size: 40pt;
+  height: 68px;
+  width: 100%;
+  margin-bottom: 10px;
+  box-shadow: 0px 5px 5px #ccc;
+}
+
+#title {
+  height: 100px;
+  font-size: 48pt;
+  border: 0;
+  background-color: #b3ecff;
+  margin-bottom: 0px;
+}
+
+#menu {
+  margin: 0px 0px 5px 0px;
+  height: 50px;
+  background-color: #000;
+  box-shadow: 0px 5px 5px #ccc;
+}
+
+.menu-button {
+  background-color: #000;
+  height: 100%;
+  line-height: 43px;
+}
+
+.menu-button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+#blurb {
+  height: 150px;
+  width: 80%;
+  margin: auto;
+  padding: 50px 0px 0px 0px;
+}
+
+#socialmedia-info {
+  padding: 0px;
+  width: 60%;
+  margin: auto;
+}
+
+.social-link {
+  margin: 10px auto 10px auto;
+}
+
+#copyright {
+  background-color: #b3ecff;
+}
